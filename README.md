@@ -1,6 +1,6 @@
 sentiment_Analysis
 ===
-A deep neural network model to find out the positive and negative sentance
+A deep neural network model to find out the positive and negative sentence
 
 Framework used
 ===
